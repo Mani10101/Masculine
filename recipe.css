@@ -1,3 +1,5 @@
+
+
 *{
     margin: 0px;
     padding: 0px;
@@ -69,14 +71,29 @@ a{
 }
 
 #ceoimg{
-        margin: 15px;
-        height: 400px;
+        margin: 35px;
+        height: 500px;
         width: 400px;
         border-radius: 15px;
+        
 }
 
 .containt{
     display: flex;
+    justify-content: space-evenly;
     
 }
+.MusclineTheme h2{
+    position: relative;
+     color: white;
+     margin-top: 5px;
+     font-size: 5rem;
+     font-family: 'Roboto', sans-serif;
+     
+     
+}
 
+.MusclineTheme{
+    position: relative;
+    margin-top: 75px;
+}
